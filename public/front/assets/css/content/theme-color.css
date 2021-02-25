@@ -1,0 +1,159 @@
+/* theme color */
+body{
+  color: #666666;
+}
+/*=====================================
+tag element
+======================================*/
+a:hover{
+  color: #105caa;
+}
+
+/* button type */
+.btn-style,
+.btn-style3{
+  background-color: #105caa;
+}
+.btn-style:hover,
+.btn-style3:hover{
+  background-color:#222222;
+}
+.btn-style2:hover{
+  background-color: #105caa;
+}
+
+/*=====================================
+  section title color
+======================================*/
+.section-title h2{
+  
+}
+.section-title h2::after{
+  background-color:#105caa;
+}
+
+/*=====================================
+  product tab color
+======================================*/
+.product-tab-ptb .tab ul.nav-tabs li:hover a,
+.product-tab-ptb .tab ul.nav-tabs li a.active{
+  background-color: #105caa;
+}
+
+/*=====================================
+  header color
+======================================*/
+.header-bottom-area{
+  background-color:#105caa;
+}
+@media (max-width: 1199px) {
+  .header-bottom-area{
+    background-color: #222;
+  }
+}
+
+/* vegamenu color */
+.vegamenu-content .browse-cat{
+  background-color: #222222 ;
+  
+}
+.vegamenu-content .vegawrap ul.vega-menu li.menu-link a.link-title:hover,
+.vegamenu-content .vegawrap ul.vega-menu li.menu-link ul.dropdown-submenu.sub-menu li.submenu-li a:hover,
+.vegamenu-content .vegawrap ul.vega-menu li.menu-link ul.dropdown-supmenu li.supmenu-li a:hover{
+  color: #105caa;
+}
+@media (max-width: 1199px) {
+  .vegamenu-content .browse-cat{
+    background-color: #fff;
+  }
+  .vegamenu-content a.browse-cat[aria-expanded="false"],
+  .vegamenu-content .vegawrap ul.vega-menu li.menu-link a.link-title.link-title-lg[aria-expanded="false"]{
+    color: #222;
+  }
+  .vegamenu-content a.browse-cat[aria-expanded="true"],
+  .vegamenu-content .vegawrap ul.vega-menu li.menu-link a.link-title.link-title-lg[aria-expanded="true"]{
+    color: #105caa;
+  }
+}
+
+/* mainmenu color */
+.megamenu-content .mainwrap ul.main-menu li.menu-link ul.dropdown-submenu li.submenu-li a:hover,
+.megamenu-content .mainwrap ul.main-menu li.menu-link ul.dropdown-submenu.banner-menu li.menu-banner:hover a.menu-banner-title,
+.megamenu-content .mainwrap ul.main-menu li.menu-link ul.dropdown-supmenu li.supmenu-li a:hover,
+.megamenu-content .mainwrap ul.main-menu li.menu-link ul.dropdown-supmenu li.supmenu-li a::before{
+  color: #105caa;
+}
+@media (max-width: 1199px) {
+  .megamenu-content a.browse-cat[aria-expanded="false"],
+  .megamenu-content .mainwrap ul.main-menu li.menu-link a.link-title.link-title-lg[aria-expanded="false"]{
+    color: #222;
+  }
+  .megamenu-content a.browse-cat[aria-expanded="true"],
+  .megamenu-content .mainwrap ul.main-menu li.menu-link a.link-title.link-title-lg[aria-expanded="true"]{
+    color: #105caa;
+  }
+}
+/* product-label color */
+.product-label span.new-title,
+.product-label span.sale-title{
+  background-color: #105caa;
+}
+.product-label span.percent-count{
+  background-color: #222222;
+}
+
+/*=====================================
+  product button color
+======================================*/
+.single-product-wrap .product-action a{
+  background-color: #105caa;
+}
+.single-product-wrap .product-action a:hover{
+  background-color: #222222;
+  
+}
+
+/* product grid-list color */
+.product-grid-list .single-product-wrap .product-content .price-box .percent-count{
+  background-color: #105caa;
+}
+
+/*=====================================
+  product name color
+======================================*/
+.product-content h6 a:hover{
+  color: #105caa;
+}
+
+/*=====================================
+  product list color
+======================================*/
+.shop-product-list-wrap .product-layout-list .product-content .product-action a{
+  background-color: #105caa;
+  border: 1px solid #105caa;
+}
+.product-list-item .single-product-wrap .product-content .product-action a{
+  background-color: #105caa;
+}
+
+/*=====================================
+  sortby css
+======================================*/
+.product-view-mode .change-view.active,
+.product-view-mode .change-view:hover{
+  color: #105caa;
+}
+
+/*=====================================
+  other page content main title color
+======================================*/
+.content-main-title h2::after{
+  background-color:#105caa;
+}
+
+/*=====================================
+  account page color
+======================================*/
+.my-account-page .page-title h2::after {
+  background-color:#105caa;
+}

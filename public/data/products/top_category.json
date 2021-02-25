@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name":"Headphone",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-2.2.jpg?v=1605066711",
+        "url": "/collections/headphone"
+    },
+    {
+        "id": 2,
+        "name":"VR Box",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-4.jpg?v=1605066504",
+        "url": "/collections/vr-box"
+    },
+    {
+        "id": 3,
+        "name":"Camera",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-6.jpg?v=1605067354",
+        "url": "/collections/camera"
+    },
+    {
+        "id": 4,
+        "name":"Speakers",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-3.jpg?v=1605066269",
+        "url": "/collections/speakers"
+    },
+    {
+        "id": 5,
+        "name":"Smart Phone",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-5.jpg?v=1606992721",
+        "url": "/collections/phones"
+    },
+    {
+        "id": 6,
+        "name":"Laptop",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-1.jpg?v=1605065685",
+        "url": "/collections/laptop"
+    },
+    {
+        "id": 7,
+        "name":"Pen Drives",
+        "image":"///cdn.shopify.com/s/files/1/0509/6331/6893/files/cat-7-new.jpg?v=1606986099",
+        "url": "/collections/pen-drives"
+    }
+]
+
+

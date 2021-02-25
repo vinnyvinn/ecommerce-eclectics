@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "old_price":130.00,
+        "new_price": 120.00,
+        "currency": "KES",
+        "label":"Soldout",
+        "name":"Refrigerator",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro58_300X350_crop_center.jpg?v=1606987893",
+        "url": "/products/refrigerator",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    },
+    {   "id": 2,
+        "old_price":"",
+        "new_price": 60.00,
+        "currency": "KES",
+        "label":"New",
+        "name":"JBL Speaker",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro37_9c497408-cd03-4ba8-b516-981c770bbaae_300X350_crop_center.jpg?v=1606987296",
+        "url": "/products/jbl-speaker",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    },
+
+    {   "id": 3,
+        "old_price":200,
+        "new_price": 210,
+        "currency": "KES",
+        "label":"New",
+        "name":"Boat",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro3_66116319-ea9e-48c4-aee5-c0de6bf84624_300X350_crop_center.jpg?v=1606986643",
+        "url": "/products/laptop",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+
+    },
+    {
+        "id": 4,
+        "old_price":160,
+        "new_price": 150,
+        "currency": "KES",
+        "label":"Sale",
+        "name":"Boat",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro3_66116319-ea9e-48c4-aee5-c0de6bf84624_300X350_crop_center.jpg?v=1606986643",
+        "url": "/products/laptop",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    },
+    {
+        "id": 5,
+        "old_price":230,
+        "new_price": 225,
+        "currency": "KES",
+        "label":"New",
+        "name":"I Phone",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro15_300X350_crop_center.jpg?v=1606987157",
+        "url": "/products/laptop",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    },
+    {
+        "id": 6,
+        "old_price":130,
+        "new_price": 110,
+        "currency": "KES",
+        "label":"New",
+        "name":"Watch",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro20_300X350_crop_center.jpg?v=1606987984",
+        "url": "/products/laptop",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    },
+    {  "id": 7,
+        "old_price":160,
+        "new_price": 120,
+        "currency": "KES",
+        "label":"New",
+        "name":"Ear Buds",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro8_300X350_crop_center.jpg?v=1606987015",
+        "url": "/products/earbuds",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    },
+    {  "id": 8,
+        "old_price":155,
+        "new_price": 150,
+        "currency": "KES",
+        "label":"New",
+        "name":"Juice machine",
+        "image":"//cdn.shopify.com/s/files/1/0509/6331/6893/products/pro64_300X350_crop_center.jpg?v=1606987366",
+        "url": "/products/juice-machine",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been t..."
+    }
+]
+
+
